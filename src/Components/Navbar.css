@@ -1,0 +1,51 @@
+/* Navbar.css */
+
+.Navbar {
+  background-color: rgb(6, 40, 87);
+  padding: 10px;
+}
+
+.Navbar_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Navbar_links {
+  display: flex;
+  align-items: center;
+}
+
+.Navbar_icon {
+  font-size: 24px;
+  color: burlywood;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.custom-dropdown-menu {
+  background-color: rgb(244, 243, 240);
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+  list-style-type: none;
+  
+  width: 10%;
+}
+
+link .custom-dropdown-item { 
+  color:aqua;
+  padding: 5px 10px;
+  text-align: left;
+  cursor: pointer;
+}
+
+.custom-dropdown-item:hover {
+  background-color: rgb(226, 226, 226);
+}
+
+.Navbar_title {
+  font-size: 1.5rem;
+  margin: 0;
+  color: white;
+}

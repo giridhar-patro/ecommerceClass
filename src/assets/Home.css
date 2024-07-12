@@ -1,0 +1,61 @@
+.Home{
+    background-color: rgb(6, 40, 87);
+    height:100vh;
+    color:aliceblue;
+    background-image: url('Laptop-e-commerce.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+}
+
+.sale{
+    color: orangered;
+            padding: 20px;
+            transform: rotate(-30deg); /* Rotate the text by 90 degrees */
+            font-size: 1rem;
+            font-weight: bold;
+            position: absolute;
+            top: 35%;
+            left: 2px;
+            transform-origin: left bottom;
+    
+}
+h1{
+    text-align: justify;
+    padding: 20px;
+    justify-content: center;
+    padding-top:15%;
+    padding-left: 30px;
+    color:aliceblue;
+}
+
+h2{
+    text-align: justify;
+    padding: 46px;
+    justify-content: center;
+    padding-top:1%;
+}
+
+span{
+    color:yellow;
+}
+
+button{
+    text-align: justify;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    justify-content: center;
+    margin-top:0;
+    margin-left:10%;
+    background: transparent;
+    color: aliceblue;
+    border-radius: 10px;
+    font-weight:700;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 15px;
+    box-shadow: 4px 4px 3px black;
+}
+
+
+
